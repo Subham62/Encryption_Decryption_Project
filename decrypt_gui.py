@@ -4,7 +4,7 @@ import os
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QLineEdit, QMessageBox
 
 # Encrypted image path
-image_path = r"C:\Users\aisha\OneDrive\Desktop\Stenography-main\encryptedImage.png"
+image_path = r"C:\Users\91943\OneDrive\Desktop\aiml images\3d-rendering-biorobots-concept_23-2149524398.jpg"
 
 class DecryptGUI(QWidget):
     def __init__(self):

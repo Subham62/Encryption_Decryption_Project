@@ -4,8 +4,8 @@ import numpy as np
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QPushButton, QLabel, QLineEdit, QMessageBox
 
 # Default input and output paths
-image_path = r"C:\Users\aisha\OneDrive\Pictures\Saved_Pictures\Allah.jpg"
-output_path = r"C:\Users\aisha\OneDrive\Desktop\Stenography-main\encryptedImage.png"
+image_path = r"C:\Users\91943\OneDrive\Desktop\aiml images\future-artificial-intelligence-robot-cyborg_31965-13894.avif"
+output_path = r"C:\Users\91943\OneDrive\Desktop\aiml images\3d-rendering-biorobots-concept_23-2149524398.jpg"
 
 class EncryptGUI(QWidget):
     def __init__(self):
