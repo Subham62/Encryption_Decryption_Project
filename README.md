@@ -19,8 +19,8 @@ This project provides a **secure and user-friendly** way to **encrypt and decryp
 ## 📥 Installation
 1. **Clone this repository:**  
    ```bash
-   git clone https://github.com/BibiAmina7/AICTE_Encryption_Decryption_project.git
-   cd AICTE_Encryption_Decryption_project
+   git clone https://github.com/Subham62/Encryption_Decryption_Project.git
+   cd Encryption_Decryption_project
    ```
 2. **Install dependencies:**  
    ```bash
@@ -62,7 +62,7 @@ This project provides a **secure and user-friendly** way to **encrypt and decryp
 This project is **open-source** and available under the [MIT License](LICENSE).
 
 ## 🔗 GitHub Repository
-👉 (https://github.com/BibiAmina7/AICTE_Encryption_Decryption_project)
+👉 (https://github.com/Subham62/Encryption_Decryption_Project.git)
 
 ## 🙌 Contributing
 Feel free to fork this repository, raise issues, or contribute enhancements! 😊
